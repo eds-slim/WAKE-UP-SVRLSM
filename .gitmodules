@@ -1,0 +1,3 @@
+[submodule "svrlsmgui"]
+	path = svrlsmgui
+	url = https://github.com/eds-slim/svrlsmgui.git
